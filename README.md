@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Paulo Henrique!
 
-- 🌱 I’m currently learning Front-end (HTML, CSS, JS, ReactJS)
+- 🌱 I’m currently learning Front-end (JS, ReactJS, HTML, CSS)
 <br>
 
 <div >
