@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Paulo Henrique!
 
-- 🌱 I’m currently learning Front-end (JavaScript, TypeScript, ReactJS, HTML, CSS)
+- 🌱 I’m currently learning Front-end (JavaScript, ReactJS, TypeScript, HTML, CSS)
 <br>
 
 <div  align="center">
@@ -14,8 +14,11 @@
 <div align="center">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
   <img width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  
+  
 
 </div>
 <hr>  
