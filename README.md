@@ -11,10 +11,9 @@ Hi there 👋
   <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=phpaulohenrique&count_private=true&show_icons=true&theme=github_dark"/>
   
 </div>
-<br>
-<br>
 
 
+--- 
 
 <div align="left">
   
@@ -39,10 +38,10 @@ Hi there 👋
           
   
   
-  
 
 </div>
-<br>
+
+---
 
 <h4>Connect with me</h4>
   
