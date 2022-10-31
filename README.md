@@ -3,12 +3,12 @@
 
 Hi there 👋
 
-<span font-size="30px">I'm current learning Front-end</span>
+<span >I'm current learning Front-end</span>
 <br>
 <br>
 
 <div  align="left">
-  <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=phpaulohenrique&count_private=true&show_icons=true&theme=github_dark"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=phpaulohenrique&count_private=true&show_icons=true&theme=github_dark"/>
   
 </div>
 <br>
