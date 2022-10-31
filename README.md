@@ -3,7 +3,7 @@
 
 Hi there 👋
 
-<span font-size="30px">I'm currently learning Front-end</span>
+<span font-size="30px">I'm current learning Front-end</span>
 <br>
 <br>
 
