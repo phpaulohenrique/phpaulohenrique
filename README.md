@@ -3,8 +3,6 @@
 
 Hi there 👋
 
-<span >I'm current learning Front-end</span>
-<br>
 <br>
 
 <div  align="left">
