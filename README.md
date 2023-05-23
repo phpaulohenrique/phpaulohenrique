@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Paulo Henrique, a recent graduate in systems analysis and development.
+I am Paulo Henrique, Front-end developer Jr. and graduated in systems analysis and development.
 
 So I decided to focus on building my career as a software developer and so far my main skills include:
 
