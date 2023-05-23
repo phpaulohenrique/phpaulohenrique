@@ -9,15 +9,15 @@ So I decided to focus on building my career as a software developer and so far m
   
 Besides this I have learned how to have the discipline not to give up when things get complicated (and I have learned how to test my own code). Certainly I still have a lot more to learn, a lot more problems to solve, a lot more to develop and this is what makes me love coding.
 
+<div  align="left">
+  <img  height="148em" src="https://github-readme-stats.vercel.app/api?username=phpaulohenrique&count_private=true&show_icons=true&theme=github_dark"/>  
+</div>
 
 #### Connect with me
   
- <a    href="https://www.linkedin.com/in/paulo-henrique-857965187/" target="_blank"><img height="20px" src="https://img.shields.io/badge/-Paulo Henrique-05122A?style=flate&logo=Linkedin&logoColor=FFF" target="_blank"/></a>
- 
- <div  align="left">
-  <img  height="148em" src="https://github-readme-stats.vercel.app/api?username=phpaulohenrique&count_private=true&show_icons=true&theme=github_dark"/>
-  
-</div>
+<a    href="https://www.linkedin.com/in/paulo-henrique-857965187/" target="_blank">
+  <img height="20px" src="https://img.shields.io/badge/-Paulo Henrique-05122A?style=flate&logo=Linkedin&logoColor=FFF"/>
+</a>
 
  
 
