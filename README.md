@@ -10,7 +10,7 @@ So I decided to focus on building my career as a software developer and so far m
 Besides this I have learned how to have the discipline not to give up when things get complicated (and I have learned how to test my own code). Certainly I still have a lot more to learn, a lot more problems to solve, a lot more to develop and this is what makes me love coding.
 
 <div  align="left">
-  <img  height="148em" src="https://github-readme-stats.vercel.app/api?username=phpaulohenrique&count_private=true&show_icons=true&theme=github_dark"/>  
+  <img  height="146em" src="https://github-readme-stats.vercel.app/api?username=phpaulohenrique&count_private=true&show_icons=true&theme=github_dark"/>  
 </div>
 
 #### Connect with me
