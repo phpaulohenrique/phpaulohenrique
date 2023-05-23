@@ -27,14 +27,11 @@ I am a recent graduate in systems analysis and development looking for opportuni
 ---
 
 <h4>Connect with me</h4>
-
-<div align="left">
   
- <a    href="https://www.linkedin.com/in/paulo-henrique-857965187/" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Linkedin-066CCA?style=for-the-badge&logo=Linkedin&logoColor=FFF" target="_blank"/></a>
-
-  <a   href="https://www.instagram.com/ph_paulohmelo/" target="_blank"><img height="25px"  src="https://img.shields.io/badge/-instagram-066CCA?style=for-the-badge&logo=instagram&logoColor=FFF" target="_blank"/></a>
+ <a    href="https://www.linkedin.com/in/paulo-henrique-857965187/" target="_blank"><img height="25px" src="https://img.shields.io/badge/-Linkedin-05122A?style=flate&logo=Linkedin&logoColor=FFF" target="_blank"/></a>
+<a   href="https://www.instagram.com/ph_paulohmelo/" target="_blank"><img height="25px"  src="https://img.shields.io/badge/-instagram-05122A?style=flate&logo=instagram&logoColor=FFF" target="_blank"/></a>
   
-</div>
+
   
 
   
