@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Paulo Henrique, Front-end developer Jr. and graduated in systems analysis and development.
 
-I'm currently focused on learning front-end development since 2021, but I'm interested in learning more about back-end and UI design.
+I am currently focused on learning front-end development since 2021, but I'm interested in learning more about back-end and UI design.
 
 So I decided to focus on building my career as a software developer and so far my main skills include:
 
