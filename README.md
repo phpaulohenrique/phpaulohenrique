@@ -1,7 +1,6 @@
 ### Hi there 👋
-I am Paulo Henrique, Front-end Developer. graduated in systems analysis and development.
-
-I am currently focused on front-end development, and I am interested in learning more about back-end and UI design too.
+I'm Paulo Henrique, a Front-end Developer with a degree in Systems Analysis and Development. 
+My current primary focus is on front-end development, but I'm also keen to expand my knowledge in back-end development and UI design.
 
 So I decided to focus on building my career as a software developer and so far my main skills include:
 
@@ -18,7 +17,7 @@ Besides this I have learned how to have the discipline not to give up when thing
 
 #### Connect with me
   
-<a    href="https://www.linkedin.com/in/paulo-henrique-857965187/" target="_blank">
+<a    href="https://www.linkedin.com/in/paulo-henrique-melo/" target="_blank">
   <img height="20px" src="https://img.shields.io/badge/-Paulo Henrique-05122A?style=flate&logo=Linkedin&logoColor=FFF"/>
 </a>
 
