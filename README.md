@@ -17,9 +17,7 @@ Besides this I have learned how to have the discipline not to give up when thing
 
 #### Connect with me
   
-<a    href="https://www.linkedin.com/in/paulo-henrique-melo/" target="_blank">
-  <img height="20px" src="https://img.shields.io/badge/-Paulo Henrique-05122A?style=flate&logo=Linkedin&logoColor=FFF"/>
-</a>
+
 
  
 
