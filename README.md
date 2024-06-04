@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Paulo Henrique, a Front-end Developer with a degree in Systems Analysis and Development. 
-My current primary focus is on front-end development, but I'm also keen to expand my knowledge in back-end development and UI design.
+My current primary focus is on front-end development, but I'm also eager to learn more about back-end development and UI design.
 
 So I decided to focus on building my career as a software developer and so far my main skills include:
 
