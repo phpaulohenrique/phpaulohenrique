@@ -9,7 +9,7 @@ So I decided to focus on building my career as a software developer and so far m
 ![Next JS](https://img.shields.io/badge/NextJS-05122A?style=flate&logo=next.js&logoColor=0d0d0d)  
 
 
-Besides this I have learned how to have the discipline not to give up when things get complicated (and I have learned how to test my own code). Certainly I still have a lot more to learn, a lot more problems to solve, a lot more to develop and this is what makes me love coding.
+Besides this I have learned how to have the discipline not to give up when things get complicated. Certainly I still have a lot more to learn, a lot more problems to solve, a lot more to develop and this is what makes me love coding.
 
 
 #### Connect with me
