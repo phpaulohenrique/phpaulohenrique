@@ -11,6 +11,7 @@ So I decided to focus on building my career as a software developer and so far m
 
 Besides this I have learned how to have the discipline not to give up when things get complicated. Certainly I still have a lot more to learn, a lot more problems to solve, a lot more to develop and this is what makes me love coding.
 
+💬 Come ask me about anything, it would be my pleasure to speak with you!
 
 #### Connect with me
   
