@@ -8,6 +8,7 @@ So I decided to focus on building my career as a software developer and so far m
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?.svg?style=flate&logo=typescript&logoColor=0248b8)
 ![Next JS](https://img.shields.io/badge/NextJS-05122A?style=flate&logo=next.js&logoColor=0d0d0d)  
 ![Node](https://img.shields.io/badge/Node-05122A?style=flate&logo=nodedotjs)
+![Node](https://img.shields.io/badge/NestJS-05122A?style=flate&logo=nestjs&logoColor=E92747)
 
 
 Besides this I have learned how to have the discipline not to give up when things get complicated. Certainly I still have a lot more to learn, a lot more problems to solve, a lot more to develop and this is what makes me love coding.
