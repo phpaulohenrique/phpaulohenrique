@@ -1,6 +1,5 @@
 ### Hi there 👋
 I'm Paulo Henrique, a Full Stack Developer with a degree in Systems Analysis and Development. 
-My current primary focus is on front-end and back-end development, but I'm also eager to learn more about UI design.
 
 So I decided to focus on building my career as a software developer and so far my main skills include:
 
