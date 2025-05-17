@@ -6,6 +6,7 @@ I've dedicated myself to building a strong career in software development, and a
 ![Node](https://img.shields.io/badge/Node-05122A?style=flate&logo=nodedotjs)
 ![Nest](https://img.shields.io/badge/NestJS-05122A?style=flate&logo=nestjs&logoColor=E92747)
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?.svg?style=flate&logo=typescript&logoColor=0248b8)
+![Java](https://img.shields.io/badge/Java-05122A?.svg?style=flate&logo=Java&logoColor=0248b8)
 ![React](https://img.shields.io/badge/ReactJS-05122A?.svg?style=flate&logo=react&logoColor=0098d4)
 ![Next JS](https://img.shields.io/badge/NextJS-05122A?style=flate&logo=next.js&logoColor=0d0d0d)  
 
