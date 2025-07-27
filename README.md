@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Paulo Henrique, a Full Stack Developer with a degree in Systems Analysis and Development.
+I'm Paulo Henrique, a Full Stack Developer with over 2 years of experience and a degree in Systems Analysis and Development.
 
-I've dedicated myself to building a strong career in software development, and along the way, I've honed skills in both back-end and front-end technologies. Here are some of the tools and frameworks I work with:
+I work with both back-end and front-end technologies. Some tools and frameworks I use:
 
 ![Node](https://img.shields.io/badge/Node-05122A?style=flate&logo=nodedotjs)
 ![Nest](https://img.shields.io/badge/NestJS-05122A?style=flate&logo=nestjs&logoColor=E92747)
@@ -12,8 +12,6 @@ I've dedicated myself to building a strong career in software development, and a
 
 
 Recently, I’ve focused on writing tests, a skill that has significantly improved my ability to deliver reliable and maintainable software. Testing has become a crucial part of my development process, ensuring that my code is not only functional but also robust.
-
-I believe in persistence and discipline that help me tackle challenges head-on. There's always more to learn, more problems to solve, and more opportunities to grow, and that’s what fuels my passion for coding every day.
 
 💬 Feel free to reach out if you want to discuss tech, collaborate, or just chat!
 
