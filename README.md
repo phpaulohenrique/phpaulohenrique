@@ -1,7 +1,18 @@
 ### Hi there 👋
-Hi, I'm Paulo Henrique, a Full Stack Developer with over 4 years of experience and a degree in Systems Analysis and Development. I also have a background in QA and System Support.
 
-I specialize in back-end development while maintaining proficiency in front-end technologies. Some of the tools and frameworks I work with include:
+I'm Paulo Henrique, a Back-end Developer with 3+ years of experience, 2+ of them in a payment gateway fintech. I hold a degree in Systems Analysis and Development, and I also have a background in QA and System Support.
+
+I focus on back-end development with Node.js and Go, building REST APIs and microservices with asynchronous processing and messaging, while staying comfortable with front-end technologies.
+
+### 💳 What I work with
+- Pix, card payments, payment split and MED (Pix refunds)
+- Onboarding, KYC and regulatory requirements
+- Production support (L3) and hotfixes
+
+### 🚀 Highlights
+- Built a reporting microservice in Go that streams data directly to disk, generating reports with 100k+ rows from millions of transactions without exhausting memory
+- Built a checkout microservice (shopping cart and orders)
+- Cut response time from 20s to 2s using Redis caching with revalidation and cursor pagination
 
 ![Node](https://img.shields.io/badge/Node-05122A?style=flate&logo=nodedotjs)
 ![Nest](https://img.shields.io/badge/NestJS-05122A?style=flate&logo=nestjs&logoColor=E92747)
@@ -11,8 +22,6 @@ I specialize in back-end development while maintaining proficiency in front-end 
 ![React](https://img.shields.io/badge/ReactJS-05122A?.svg?style=flate&logo=react&logoColor=0098d4)
 ![Next JS](https://img.shields.io/badge/NextJS-05122A?style=flate&logo=next.js&logoColor=0d0d0d)  
 
-
-Recently, I’ve focused on writing tests, a skill that has significantly improved my ability to deliver reliable and maintainable software. Testing has become a crucial part of my development process, ensuring that my code is not only functional but also robust.
 
 💬 Feel free to reach out if you want to discuss tech, collaborate, or just chat!
 
